@@ -1,0 +1,11 @@
+{
+  "name": "ui-logic-validation",
+  "version": "1.0.0",
+  "description": "Validation of UI state logic and interaction constraints",
+  "main": "buttonLogic.js",
+  "scripts": {
+    "test": "node buttonLogic.js"
+  },
+  "author": "Andre Thomas",
+  "license": "ISC"
+}
